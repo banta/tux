@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = 'tagaholic'
   s.executables = ['tux']
   s.add_dependency 'ripl', '>= 0.3.5'
-  s.add_dependency 'ripl-rack', '>= 0.2.0'
+  s.add_dependency 'ripl-rack', '>= 0.2.1'
   s.add_dependency 'ripl-multi_line', '>= 0.2.4'
   s.add_dependency 'sinatra', '>= 1.2.1'
   s.add_development_dependency 'bacon', '>= 1.1.0'
